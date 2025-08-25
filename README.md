@@ -157,4 +157,4 @@ Para contribuir al proyecto:
 
 ---
 
-**Desarrollado con ❤️ para la investigación sobre seguridad digital**
+**Desarrollado por Huaritex para la investigación sobre seguridad digital**
